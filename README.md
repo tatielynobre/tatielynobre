@@ -1,7 +1,7 @@
 ## Hello World!🤗
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatielynobre&show_icons=true&theme=shadow_red&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatielynobre&layout=compact&theme=shadow_red">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tatielynobre&show_icons=true&theme=shadow_red&include_all_commits=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatielynobre&layout=compact&theme=shadow_red">
 </div><br>
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
