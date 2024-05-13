@@ -1,4 +1,4 @@
-## Hello World!🤗
+## Hello World!
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tatielynobre&show_icons=true&theme=shadow_red&include_all_commits=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatielynobre&layout=compact&theme=shadow_red">
